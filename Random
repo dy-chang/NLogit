@@ -1,0 +1,16 @@
+
+# Random parameter model
+
+
+LOGIT ; Lhs = x31
+; Rhs = one, x26, x62, x205, x231, x24, x235, x68, x29, x236, x156, x105, x145, x147, x127, x135, x32
+; RPM; 
+; Fcn= x29(n), x32(n), x205(n), x236(n)
+; Pts=200 
+; Halton
+; Partials$
+PARTIALS;Effects:x26/ x62/ x205/ x231/ x24/ x235/ x68/ x29/ x236/ x156/ x105/ x145/ x147/ x127/ x135/ x32; Summary$
+
+
+
+
